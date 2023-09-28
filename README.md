@@ -13,8 +13,8 @@ Página de produtos feita com React Native (utilizando expo).
   - Componente de Loading
 
 - Dicas/Melhorias futuras
- - Melhorar performance com paginação na listagem (FlatList) conforme scroll - (porém, a FakeStoreAPI ainda não possui o recurso de paginação).
- - Criar PDP (Página do Produto)
+  - Melhorar performance com paginação na listagem (FlatList) conforme scroll - (porém, a FakeStoreAPI ainda não possui o recurso de paginação).
+  - Criar PDP (Página do Produto)
 
 ## 🛠️ Stack
 
@@ -28,7 +28,9 @@ Página de produtos feita com React Native (utilizando expo).
 
 ## APP
 <img src="./src/screenshots/home.png" width="300px">
+---
 <img src="./src/screenshots/busca.png" width="300px">
+---
 <img src="./src/screenshots/not-found.png" width="300px">
 
 ## RUN

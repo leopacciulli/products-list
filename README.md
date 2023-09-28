@@ -27,6 +27,9 @@ Página de produtos feita com React Native (utilizando expo).
   - Axios
 
 ## APP
-<img src="./src/screenshots/home.png" width="150px">
-<img src="./src/screenshots/busca.png" width="150px">
-<img src="./src/screenshots/not-found.png" width="150px">
+<img src="./src/screenshots/home.png" width="300px">
+<img src="./src/screenshots/busca.png" width="300px">
+<img src="./src/screenshots/not-found.png" width="300px">
+
+## RUN
+Clone - git@github.com:leopacciulli/products-list.git
